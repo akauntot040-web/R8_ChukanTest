@@ -1,5 +1,5 @@
 id,name,description,condition_type,target,xp
-first_clear,FIRST CLEAR,最初のページをCLEARする,clears,1,20
-quest_1,QUEST BREAKER,QUESTを1つCOMPLETEする,completes,1,50
-focus_15,GOOD FOCUS,累計15分FOCUSする,focus_seconds,900,30
-streak_7,7 DAY RUSH,7日連続でFOCUSする,streak,7,100
+first_clear,FIRST CLEAR,最初のページをCLEARする,clears,999,50
+quest_1,QUEST BREAKER,QUESTを1つCOMPLETEする,completes,99999,100
+focus_15,GOOD FOCUS,累計15分FOCUSする,focus_seconds,9999999,500
+streak_7,7 DAY RUSH,7日連続でFOCUSする,streak,7,999999999
